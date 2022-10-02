@@ -1,0 +1,35 @@
+.col-1-of-4 {
+  display: inline-block;
+  background-color: red;
+  margin: 0;
+  padding: 5rem;
+  position: relative;
+  top: 5rem;
+  left: 15rem;
+}
+.dbl-click {
+  display: none;
+}
+.one-click {
+  background-color: blue;
+}
+
+.button {
+  position: relative;
+  top: 15rem;
+  left: 2rem;
+}
+.for-button {
+  display: none;
+}
+
+.img {
+  background-image: url(../img/tvv.jpg);
+  background-size: cover;
+  width: 100px;
+  height: 100px;
+  display: inline-block;
+}
+.green {
+  background-color: green;
+}
